@@ -1,4 +1,6 @@
-#Predicting AirQuality using Linear Regression model (Using R)
+# Predicting AirQuality using Linear Regression model (Using R)
+# Dataset available at the below UCI repositoty location
+https://archive.ics.uci.edu/ml/datasets/air+quality
 
 data(airquality)
 airquality
